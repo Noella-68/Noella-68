@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+Noella+Jarega)](https://git.io/typing-svg)
 
-<h1 align="center"> I'm A Software QA Engineer </h1>
+<h1 align="center"> I'm A System Engineer </h1>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
-- 🔭 I’m currently working on Front End Engineering using Vuejs and Quassar.
-- 👯 I’m looking to collaborate on FE projects
+- 🔭 I’m currently working on Front End Engineering Projects(Vue.js) while upskilling on Python .
+- 👯 I’m looking to collaborate on FE/BE projects
 - 📫 How to reach me: **noellajarega@gmail.com**
   
 - ⚡ Fun fact:Traveling👯
