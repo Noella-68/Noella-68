@@ -8,7 +8,7 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
-- 🔭 I’m currently working on Front End Engineering Projects(Vue.js) while upskilling in Python .
+- 🔭 I’m currently working on Full Stack Engineering Project (AI Communication assistant) with voice over, auto document generation and email features.
 - 👯 I’m looking to collaborate on FE/BE projects
 - 📫 How to reach me: **noellajarega@gmail.com**
   
